@@ -36,3 +36,7 @@ input[type="text"], input[type="password"] {
 	width: 300px;
 }
 
+label {
+	background-color:#f6f5f5;
+	border: 1px solid #000; 
+}
