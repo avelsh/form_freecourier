@@ -13,6 +13,13 @@
 	width: 600px;
 }
 
+input[type="text"], input[type="password"] {
+	border: none;
+	border-radius: 5px;
+	height: 30px;
+	margin: 5px;
+}
+
 .inside-container1 {
 	background-color: #f6f5f5;
 	display: inline-block;
